@@ -2,7 +2,5 @@
     <div align="center">
     <h2>¡Hola, soy Nahui!</h2>
     </br>
-
-    
-    </div>
+    <a href="https://www.github.com/celestecruzzg">LinkedIn</a>
 </body>
